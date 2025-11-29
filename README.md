@@ -1,6 +1,6 @@
 # SafeHerAgent
 
-SafeHerAgent is a Python-based personal assistant/automation agent designed to streamline tasks and provide intelligent assistance. It leverages a modular design for easy extension and integration with other Python tools.
+SafeHerAgent is a Python-based personal assistant/automation agent designed to streamline tasks and provide intelligent assistance. It leverages a modular design for easy extension and integration with other Python tools.SafeHer is an AI safety assistant that chats, alerts authorities, shares location, and activates a camera when danger is detected.
 
 ## Features
 
@@ -52,3 +52,4 @@ This project is licensed under the MIT License.
 - Integrate with external APIs for automation
 - Expand modular plugin system for easier feature addition
 - Provide a GUI for non-technical users
+
